@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hunter-react/static/css/main.deb4d580.chunk.css",
+    "main.js": "/hunter-react/static/js/main.b9cfb2bb.chunk.js",
+    "main.js.map": "/hunter-react/static/js/main.b9cfb2bb.chunk.js.map",
+    "runtime-main.js": "/hunter-react/static/js/runtime-main.411408b4.js",
+    "runtime-main.js.map": "/hunter-react/static/js/runtime-main.411408b4.js.map",
+    "static/css/2.cf22a21b.chunk.css": "/hunter-react/static/css/2.cf22a21b.chunk.css",
+    "static/js/2.c7d6ae13.chunk.js": "/hunter-react/static/js/2.c7d6ae13.chunk.js",
+    "static/js/2.c7d6ae13.chunk.js.map": "/hunter-react/static/js/2.c7d6ae13.chunk.js.map",
+    "index.html": "/hunter-react/index.html",
+    "static/css/2.cf22a21b.chunk.css.map": "/hunter-react/static/css/2.cf22a21b.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/hunter-react/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.c7d6ae13.chunk.js.LICENSE.txt": "/hunter-react/static/js/2.c7d6ae13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.411408b4.js",
+    "static/css/2.cf22a21b.chunk.css",
+    "static/js/2.c7d6ae13.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.b9cfb2bb.chunk.js"
+  ]
+}
